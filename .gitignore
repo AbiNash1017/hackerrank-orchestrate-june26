@@ -28,5 +28,3 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Logs outside the repo (referenced by AGENTS.md)
-# ~/hackerrank_orchestrate/log.txt  — already outside repo, nothing to do
