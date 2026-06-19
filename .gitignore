@@ -1,0 +1,32 @@
+# Secrets — never commit
+.env
+*.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs outside the repo (referenced by AGENTS.md)
+# ~/hackerrank_orchestrate/log.txt  — already outside repo, nothing to do
